@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Mythili custom template
+about: Custom template for scrum
 title: ''
 labels: ''
 assignees: ''
